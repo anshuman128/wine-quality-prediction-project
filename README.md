@@ -1,1 +1,1 @@
-# wine-quality-prediction-project
+# wine-quality-prediction-project using machine learning and python
